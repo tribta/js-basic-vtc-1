@@ -1,11 +1,8 @@
-/**
- * ==============================
- * TODO: Viết hàm showProperties(object)
- * ==============================
- a. Nhận vào một object.
- b. Hiển thị ra tất cả các thuộc tính của object mà giá trị là kiểu
-    string.
- * ==============================
- */
-
-// 
+Viết hàm calculateGrade(marks):
+a. Tính điểm trung bình (average) của một mảng điểm.
+b. Xác định và trả về xếp loại (grade) theo danh sách sau:
+i. 0–59: "F"
+ii. 60–69: "D"
+iii. 70–79: "C"
+iv. 80–89: "B"
+v. 90–100: "A"
